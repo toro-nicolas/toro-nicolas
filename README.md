@@ -10,9 +10,9 @@
 <h3 align="center">🔥 Github statistics</h3>
 
 <h3 align="center">🗣 Contact</h3>
-<p align="center">
     - You can send me an email at : **nicolas.toro@epitech.eu**<br>
     - You can check my profiles :
+<p align="center">
     <a href="https://discord.com/invite/nt_games"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title ="My linkedin profile"></a>
     <a href="https://discord.com/invite/nt_games"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title ="My instragram profile"></a>
     <br>
