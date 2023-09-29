@@ -33,7 +33,7 @@
 
 <h3 align="center">🗣 Contact</h3>
 <p align="center">
-    <ul>
+    <ul align="center">
         <li>You can send me an email at : <a href="nicolas.toro@epitech.eu"><b>nicolas.toro@epitech.eu</b></a><br></li>
         <li>You can check my profiles :</li>
     </ul>
