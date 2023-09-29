@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm TORO Nicolas !</h1>
+<h3 align="center">👨 About me</h3>
+<p align="center">
+    🌐 I'm Nicolas TORO, an 18-year-old French student<br>
+    🎓 I'm in my 1st year at Epitech (promotion 2028) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech logo" width="50px"><br>
+    ✍️ I'm learning computer science and programming<br>
+    📌 I live in Nice in the Alpes maritimes in France<br>
+    🗣 I speak fluent French 🇫🇷 and English 🇺🇸
+</p>
 
 <h3 align="center">⌨️ Programming language</h3>
 <p align="center">
@@ -31,7 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toro-nicolas&layout=compact&count_private=true&langs_count=16&hide_border=true&theme=dracula&border_radius=6" alt="Most Used Languages" title ="Most Used Languages">
 </p>
 
-<h3 align="center">🗣 Contact</h3>
+<h3 align="center">📧 Contact</h3>
 <p align="center">
 You can send me an email at : <a href="nicolas.toro@epitech.eu"><b>nicolas.toro@epitech.eu</b></a><br>
 You can check my profiles :
