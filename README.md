@@ -1,15 +1,16 @@
+<html>
 <h1 align="center">Hi 👋, I'm TORO Nicolas !</h1>
 
-<h3>⌨️ Programming language</h3>
+<h3 align="center">>⌨️ Programming language</h3>
 
+<h3 align="center">>🛠 Tools</h3>
 
-<h3>🛠 Tools</h3>
+<h3 align="center">>👨‍💻 OS</h3>
 
-<h3>👨‍💻 OS</h3>
+<h3 align="center">>🔥 Github statistics</h3>
 
-<h3>🔥 Github statistics</h3>
-
-<h3>🗣 Contact</h3>
+<h3 align="center">>🗣 Contact</h3>
+</html>
 - You can send me an email at : **nicolas.toro@epitech.eu**    
 - You can check my profiles :
 <p align="center">
