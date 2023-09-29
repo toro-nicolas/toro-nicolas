@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm TORO Nicolas !</h1>
 
-<!--
-**toro-nicolas/toro-nicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">⌨️ Programming language</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠 Tools</h3>
+
+<h3 align="center">👨‍💻 OS</h3>
+
+<h3 align="center">🔥 Github statistics</h3>
+
+<h3 align="center">🗣 Contact</h3>
+<p align="center">
+    - You can send me an email at : **nicolas.toro@epitech.eu**<br>
+    - You can check my profiles :
+    <a href="https://discord.com/invite/nt_games"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title ="My linkedin profile"></a>
+    <a href="https://discord.com/invite/nt_games"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title ="My instragram profile"></a>
+    <br>
+    <a href="https://discord.com/invite/nt_games"><img src="https://lanyard-profile-readme.vercel.app/api/375570065262903297" alt="My discord profile" title ="My discord profile"></a>
+</p>
