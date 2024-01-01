@@ -6,7 +6,8 @@
     ✍️ I'm learning computer science and programming<br>
     📌 I live in Nice in the Alpes maritimes in France<br>
     🗣 I speak fluent French 🇫🇷 and English 🇺🇸<br>
-    🙋🏻‍♂️ You can checkout my old github profile <a href="https://github.com/nt-games-ytb">here</a>
+    🙋🏻‍♂️ You can checkout my old github profile <a href="https://github.com/nt-games-ytb">here</a><br>
+    📄 You can acces to my curriculum vitae <a href="https://github.com/toro-nicolas/toro-nicolas/blob/main/TORO%20Nicolas%20-%20CV.pdf">here</a>
 </p>
 
 <h3 align="center">⌨️ Programming language</h3>
@@ -47,7 +48,7 @@
 <p align="center">
 You can send me an email at : <a href="nicolas.toro@epitech.eu"><b>nicolas.toro@epitech.eu</b></a><br>
 You can check my profiles :
-    <a href="https://www.linkedin.com/in/nicolas-toro-96343b222/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
+    <a href="https://www.linkedin.com/in/toro-nicolas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My linkedin profile" title="My linkedin profile"></a>
     <a href="https://www.instagram.com/nicolas__tr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My instagram profile" title="My instragram profile"></a>
     <br>
     <a href="https://discord.com/invite/nt_games"><img src="https://lanyard-profile-readme.vercel.app/api/375570065262903297" alt="My discord profile" title="My discord profile"></a>
