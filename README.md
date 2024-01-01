@@ -5,7 +5,8 @@
     🎓 I'm in my 1st year at Epitech (promotion 2028) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech logo" width="50px"></a><br>
     ✍️ I'm learning computer science and programming<br>
     📌 I live in Nice in the Alpes maritimes in France<br>
-    🗣 I speak fluent French 🇫🇷 and English 🇺🇸
+    🗣 I speak fluent French 🇫🇷 and English 🇺🇸<br>
+    👨🏻‍🦱 You can checkout my old github profile <a href="https://github.com/nt-games-ytb">here</a>
 </p>
 
 <h3 align="center">⌨️ Programming language</h3>
