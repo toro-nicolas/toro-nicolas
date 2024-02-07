@@ -2,7 +2,7 @@
 <h3 align="center">👨🏻‍🦱 About me</h3>
 <p align="center">
     🌐 I'm Nicolas TORO, an 18-year-old French student<br>
-    🎓 I'm in my 1st year at Epitech (promotion 2028) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech logo" width="50px"></a><br>
+    🎓 I'm in my 1st year at Epitech (class of 2028) <a href="https://epitech.eu"><img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech logo" width="50px"></a><br>
     ✍️ I'm learning computer science and programming<br>
     📌 I live in Nice in the Alpes maritimes in France<br>
     🗣 I speak fluent French 🇫🇷 and English 🇺🇸<br>
