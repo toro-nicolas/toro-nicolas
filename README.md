@@ -39,6 +39,7 @@
 
 <h3 align="center">🔥 Github statistics</h3>
 <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toro-nicolas&theme=dracula&hide_border=true" alt="GitHub Streak" /></a><br>
     <img src="https://github-readme-stats.vercel.app/api?username=toro-nicolas&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=dracula&border_radius=6" alt="Nicolas TORO's Github Stats" title="Nicolas TORO's Github Stats">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toro-nicolas&layout=compact&count_private=true&langs_count=16&hide_border=true&theme=dracula&border_radius=6" alt="Most Used Languages" title="Most Used Languages">
